@@ -1,2 +1,2 @@
 # clone-tabnews
-Uma tentativa de me descobrir no cenário de dev ou nodev.
+Implementação do https://www.tabnews.com.br para o https://curso.dev
